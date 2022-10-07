@@ -1,3 +1,6 @@
+//це для коміту 3 головної гілки master
+
+
 #include <iostream>
 #include <cmath>
 
@@ -18,6 +21,7 @@ int main()
 	cout << "z1= " << z1 << endl;
 	cout << "z2= " << z2 << endl;
 
+	cout << "\thello, world!" << endl;
 	system("pause");
 
 	return 0;
